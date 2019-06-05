@@ -1,0 +1,3 @@
+# Redirect default Netlify subdomain to primary domain
+https://contentiskingbutcontextisgod.netlify.com/* https://contentiskingbutcontextisgod.com/:splat 301!
+
